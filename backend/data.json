@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Saba",
+        "lastname": "Minadze",
+        "age": 17,
+        "sallaryPerMounth": "1000",
+        "isEmployed": true,
+        "profession": "backEnd-Developer",
+        "githubLink": "https://github.com/SabaMinadze"
+    },
+    {
+        "id": 2,
+        "name": "Nini",
+        "lastname": "Minadze",
+        "age": 17,
+        "sallaryPerMounth": "500",
+        "isEmployed": true,
+        "profession": "frontEnd-Developer",
+        "githubLink": "https://www.instagram.com/niniminadze16/"
+    },
+    {
+        "id": 3,
+        "name": "Guram",
+        "lastname": "Diasamidze",
+        "age": 16,
+        "sallaryPerMounth": "0",
+        "isEmployed": false,
+        "profession": "IndieGame-Developer",
+        "githubLink": "https://github.com/Gurami007"
+    },
+    {
+        "id": 4,
+        "name": "Tamuni",
+        "lastname": "Latcabidze",
+        "age": 48,
+        "sallaryPerMounth": "0",
+        "isEmployed": false,
+        "profession": "neurologist ",
+        "githubLink": "https://www.instagram.com/lacabidzetamuna/"
+    },
+    {
+        "id": 5,
+        "name": "Roland",
+        "lastname": "Minadze",
+        "age": 48,
+        "sallaryPerMounth": "3000",
+        "isEmployed": true,
+        "profession": "CEO of private security company Algani",
+        "githubLink": "https://www.alganident.ge/"
+    },
+    {
+        "id": 6,
+        "name": "Marita",
+        "lastname": "Kvirikasvili",
+        "age": 44,
+        "sallaryPerMounth": "7000",
+        "isEmployed": true,
+        "profession": "dental surgeon",
+        "githubLink": "https://www.instagram.com/marita_kv/"
+    },
+    {
+        "id": 7,
+        "name": "Niniko",
+        "lastname": "Latcabidze",
+        "age": 49,
+        "sallaryPerMounth": "777777",
+        "isEmployed": true,
+        "profession": "Gynecologist",
+        "githubLink": "https://www.instagram.com/_nino.niniko/"
+    },
+    {
+        "id": 8,
+        "name": "Guliko",
+        "lastname": "Lomusahvili",
+        "age": 73,
+        "sallaryPerMounth": "78",
+        "isEmployed": true,
+        "profession": "Neonatologist",
+        "githubLink": "https://www.facebook.com/guliko.lomuashvili"
+    }
+]
