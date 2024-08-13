@@ -9,7 +9,7 @@ const port = 3000
 app.use(cors()); 
 
 
-const bigBox = dataInfo
+const bigBox = dataInfo;
 
 
 app.get('/api/data', (req, res) => {
